@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0xda5a3cf7f9a6439d583935742c7e323b5e491fee",
+    "SCAN_LINK": "https://testnet.snowtrace.io/tx/0x6abc1fd00d85201973c2e7175e65ada0e220aa2bba91c4d8721a7daaf1a8b9a4",
+    "NETWORK": {
+        "NAME": "Avalanche Network",
+        "SYMBOL": "AVAX",
+        "ID": 43114
+    },
+    "NFT_NAME": "cybokzname",
+    "SYMBOL": "czzbokk",
+    "MAX_SUPPLY": 5,
+    "WEI_COST": 4000000000000000000,
+    "DISPLAY_COST": 4,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Kalao",
+    "MARKETPLACE_LINK": "https://beta.kalao.io/my-account/collectibles",
+    "SHOW_BACKGROUND": true
+}
